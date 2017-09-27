@@ -1,0 +1,4 @@
+name: LobbyShop
+main: com.mcndsj.lobbyShop.Lobby_Shop
+version: 0.0.1-SNAPSHOT
+depend: [LobbyDisplay, Vault, lobbyMoney, lobbyVip]
